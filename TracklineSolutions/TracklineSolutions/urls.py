@@ -24,5 +24,7 @@ urlpatterns = [
     path('dashboard/', views.dashboard, name='dashboard'),
     path('log-ride/', views.log_ride, name='log_ride'),
     path('profile/', views.profile, name='profile'),
+    path('register/', views.register, name='register'),
+    path('login/', views.LoginView.as_view(), name='login'),
 
 ]

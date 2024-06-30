@@ -1,0 +1,30 @@
+[33mcommit ada4139d2251a0c7bd0d46b5476246872227c0b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: amit097c <amit097@yahoo.com>
+Date:   Tue Jun 18 20:04:23 2024 -0400
+
+    Intial Setup
+
+[33mcommit a9348877953c93213b5130dda6b515dad097c17e[m
+Author: amit097c <amit097@yahoo.com>
+Date:   Tue Jun 18 17:12:12 2024 -0400
+
+    made changes to requirements
+
+[33mcommit ac3cf41354ae85c599188df0f6bedaa2e0acdbc0[m
+Merge: 13a92d3 29c0556
+Author: amit097c <amit097@yahoo.com>
+Date:   Tue Jun 18 15:52:52 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 13a92d38599f109a63f352b3647c0f829ab89125[m
+Author: amit097c <amit097@yahoo.com>
+Date:   Tue Jun 18 15:47:42 2024 -0400
+
+    Initial Requirements scope commit
+
+[33mcommit 29c0556f66896b1c1e0bd68d733cd018cb3c1885[m
+Author: amit097c <51957399+amit097c@users.noreply.github.com>
+Date:   Tue Jun 18 15:13:40 2024 -0400
+
+    Initial commit

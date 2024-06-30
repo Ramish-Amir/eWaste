@@ -1,0 +1,10 @@
+{% extends 'static/base.html' %}
+{% block title %}User Registration{% endblock %}
+
+{% block content %}
+    <div>
+        <h2>Register User</h2>
+        <form method='POST' action="{% url 'register' %}" enctype="multipart/form-data">{{ form.as_p }}</form>
+        <button type="submit">Register</button>
+    </div>
+{% endblock %}
